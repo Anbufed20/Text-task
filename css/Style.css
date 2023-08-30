@@ -1,0 +1,131 @@
+<style>
+
+#div5 {
+	background-color:orange;
+}
+#div1 {
+text-align:right;
+}
+#div2 {
+text-align:left;
+}
+#div3 {
+text-align:center;
+}
+#div4 {
+text-align:justify;
+}
+#div6 {
+text-align-last:right;
+}
+#div7 {
+text-align-last:left;
+}
+#div8 {
+text-align-last:center;
+}
+#div9 {
+text-align-last:justify;
+}
+#div10 {
+Direction:rtl;
+}
+#div11 {
+direction:ltr;
+}
+#div12 {
+unicode-bidi
+}
+img.a {
+Vertical-align:baseline;
+}
+img.b {
+Vertical-align:text-top;
+}
+img.c {
+Vertical-align:text-bottom;
+}
+img.d {
+Vertical-align:sub;
+}
+img.e {
+Vertical-align:sup;
+}
+#div13 {
+text-transform:uppercase;
+}
+#div14 {
+text-transform:lowercase;
+}
+#div15 {
+text-transform:capitalize;
+}
+#div16 {
+text-indent:100px;
+}
+#div17 {
+letter-spacing:10px;
+}
+#div18 {
+  line-height: 1.8;
+}
+#div19  {
+  word-spacing: 10px;
+}
+#div20 {
+  white-space: nowrap;
+}
+#div21 {
+  text-decoration: underline red;
+} 
+#div22 {
+  text-decoration: overline green;
+}
+#div23 {
+  text-decoration: line-through blue;
+}
+#div24 {
+  text-decoration: overline underline orange;
+}  
+#div25 {
+text-shadow: 2px 2px blue;
+}
+#div26 {
+	color:red;
+}
+#div27 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 20px red;
+}
+
+.section0 {
+border:dotted;
+}
+.section1 {
+border:solid blue;
+}
+.section2 {
+border:dashed green;
+}
+.section3 {
+border:groove purple;
+}
+.section4 {
+border:double navy;
+}
+.section5 {
+border-style:dotted dashed groove solid;
+border-color:red green blue orange;
+}
+.section6 {
+	border:double;
+	background-color:orange;
+	color:white;
+}
+
+</style>
+
+  
+  
+
